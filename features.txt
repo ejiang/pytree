@@ -1,0 +1,7 @@
+future features
+
+color print
+html output
+save, open repositories
+
+[+] open config
